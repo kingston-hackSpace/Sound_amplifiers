@@ -2,8 +2,6 @@
 
 This tutorial will guide you to set-up a Sparkfun Noisy Cricket Amplifier to connect to a speaker.
 
-The Noisy Cricket Amplifier was configured to output up to **1.5W of power in mono operation (4Ω load)** or **3.0W per channel in stereo operation (8Ω load)**.
-
 Based on: [Sparkfun's Noisy Cricket Hookup Guide](https://learn.sparkfun.com/tutorials/noisy-cricket-stereo-amplifier---15w-hookup-guide)
 
 
