@@ -19,6 +19,10 @@ Our hackSpace Noisy Cricket
 
 
 ----------
+## STEREO MODE
+
+
+----------
 ## HARDWARE
 
 - Noisy Cricket Amplifier
@@ -33,5 +37,5 @@ Our hackSpace Noisy Cricket
 ## WIRING
 
 ----------
-## Instruction
+## Instructions
 
