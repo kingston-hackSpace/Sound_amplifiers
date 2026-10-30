@@ -48,12 +48,13 @@ The knob to control the volume has a built in switch. VCC is on the "input" side
 ----------
 ## WIRING: MONO MODE
 
-Our hackSpace Noisy Cricket 
+<img src="NoisyCricketAmp_bb.jpg" width="600">
 
 
 ----------
 ## WIRING: STEREO MODE
 
+PENDING
 
 ----------
 
