@@ -5,10 +5,11 @@ This tutorial will guide you to set-up a Sparkfun Noisy Cricket Amplifier to con
 Based on: [Sparkfun's Noisy Cricket Hookup Guide](https://learn.sparkfun.com/tutorials/noisy-cricket-stereo-amplifier---15w-hookup-guide)
 
 ----------
-## MONO VS STEREO
+## MONO VS STEREO (CONTENT PENDING)
 
 Do you need mono or stereo?
 
+(CONTENT PENDING)
 Read [here] to learn more about mono and stereo outputs. 
 
 ----------
